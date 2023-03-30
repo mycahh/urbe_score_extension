@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "URBE Score",
+    "version": "1.0",
+    "description": "Esta es una simple extensión de Chrome para colocar aleatoriamente las notas de evaluación de profesores de URBE",
+    "action": {
+      "default_popup": "menu.html"
+    },
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://www.urbe.edu/portal-estudiantes*"],
+        "js": ["content_scripts.js"]
+      }
+    ]
+  }
