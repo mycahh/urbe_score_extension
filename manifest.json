@@ -10,6 +10,7 @@
     "content_scripts": [
       {
         "matches": ["https://www.urbe.edu/portal-estudiantes*"],
+        "css": ["styles.css"],
         "js": ["content_scripts.js"]
       }
     ]
