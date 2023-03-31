@@ -1,7 +1,7 @@
 
 # Urbe Score Extension
 
-Es una extensión de Chrome que permite hacer llenar la encuesta de evaluación hacia los profesores.
+Es una extensión de Chrome que permite hacer llenar la encuesta de evaluación hacia los profesores de URBE de forma mas eficiente.
 
 # Como instalar
 1. Clona evaluación repositorio usando el conmando ``` git clone https://github.com/mycahh/urbe_score_extension ``` o descarga el ZIP desde la pagina de Github y descomprimelo.
@@ -13,3 +13,4 @@ Es una extensión de Chrome que permite hacer llenar la encuesta de evaluación 
 4. Selecciona la carpeta donde se encuentra el código de la extensión y subelo.
 
 5. It's done ✨.
+
