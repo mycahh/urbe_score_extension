@@ -12,4 +12,4 @@ Es una extensión de Chrome que permite hacer llenar la encuesta de evaluación 
 
 4. Selecciona la carpeta donde se encuentra el código de la extensión y subelo.
 
-5. It's done.
+5. It's done ✨.
