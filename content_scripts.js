@@ -89,7 +89,10 @@ currentIFrame.addEventListener("load", function () {
 
         if(isAutomaticClick) {
             const btn_send = contentFrame.querySelector('input[value="Enviar Evaluación"]')
-            btn_send.click()
+            
+            if (confirm('¿Estas seguro de enviar este formulario?')){
+                btn_send.click()
+             }
         }
     })
 
