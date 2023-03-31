@@ -6,11 +6,10 @@ Es una extensión de Chrome que permite hacer llenar la encuesta de evaluación 
 # Como instalar
 1. Clona evaluación repositorio usando el conmando ``` git clone https://github.com/mycahh/urbe_score_extension ``` o descarga el ZIP desde la pagina de Github y descomprimelo.
 
-2. Dirigite a [chrome://extensions/](chrome://extensions/) o entra al administrador de extensión de tu navegador.
+2. Ingresa la URL ```chrome://extensions/``` en la barra de busqueda de tu navegador o entra al administrador de extensión.
 
-
-3. En el administrador de extensiones, pulsa el boton "Cargar extensión sin empaquetar".
+3. En el administrador de extensión, pulsa el boton "Cargar extensión sin empaquetar".
 
 4. Selecciona la carpeta donde se encuentra el código de la extensión y subelo.
 
-5. It's done. ✨
+5. It's done.

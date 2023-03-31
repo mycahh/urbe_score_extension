@@ -36,7 +36,7 @@ currentIFrame.addEventListener("load", function () {
     input_min.type = "range"
     input_min.min = 1
     input_min.max = 4
-    input_min.value = 3
+    input_min.value = 2
     input_min.style.display = "block"
     input_min.id = "input_min"
 
@@ -52,7 +52,7 @@ currentIFrame.addEventListener("load", function () {
     input_max.type = "range"
     input_max.min = 1
     input_max.max = 4
-    input_max.value = 3
+    input_max.value = 4
     input_max.style.display = "block"
     input_max.id = "input_max"
 
